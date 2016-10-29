@@ -1,4 +1,4 @@
-defmodule Solution do
+defmodule Problem1 do
   def solve(0), do: true
   def solve(lines) do
     IO.gets("")
